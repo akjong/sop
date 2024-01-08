@@ -18,7 +18,7 @@ priority order:
 
 ## Memory allocator
 
-jemalloc
+jemalloc for large memory consumption app.
 
 ## logging
 
