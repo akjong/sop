@@ -1,6 +1,6 @@
 # Python Coding SOP
 
-## Vscode Extensions
+## VsCode Extensions
 
 * `ms-python.python`
 * `ms-python.mypy-type-checker`

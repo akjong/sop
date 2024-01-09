@@ -1,5 +1,9 @@
 # TypeScript Coding SOP
 
+## VsCode Extensions
+
+* `biomejs.biome`
+
 ## Dev Tools
 
 * [Biome](https://github.com/biomejs/biome) - formatter, linter, CLI, LSP.
