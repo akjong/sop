@@ -30,3 +30,4 @@ cargo +nightly clippy -- -W clippy::all -W clippy::pedantic -W clippy::nursery #
 ## Best practices
 
 * [Production-ready microservice in Rust](https://apatisandor.hu/tags/dog-shelter/)
+* [HoraeDB style guide](https://apache.github.io/incubator-horaedb-docs/dev/style_guide.html)
