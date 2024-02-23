@@ -8,6 +8,12 @@ cargo +nightly clippy --all
 cargo +nightly clippy -- -W clippy::all -W clippy::pedantic -W clippy::nursery # stricker lint, only for core package
 ```
 
+Add headers to lib.rs, when writing a library
+
+```rust
+#![warn(unreachable_pub, unused_crate_dependencies)]
+```
+
 ## Logging
 
 * [tracing](https://github.com/tokio-rs/tracing)
