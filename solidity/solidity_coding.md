@@ -16,3 +16,4 @@
 ## Refs
 
 * Coinbase solidity style guide: <https://github.com/coinbase/solidity-style-guide>
+* Contract Auditin Checklist: <https://github.com/PrideVelConsulting/Smart-Contract-Security>
