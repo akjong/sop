@@ -5,6 +5,10 @@
 - <https://apidog.com/> - You can use web version or Win/macOS client version(client version has more features).
 - When we publish the API doc, we can export the OpenAPI spec and Markdown version to a public web.
 
+## HTTP Endpoint
+
+In general, HTTP endpoints are defined as the following `<namespace>/<version>/<target>/<action>`, for example: `/constraints/v0/builder/delegate`. Following REST API conventions, `action` is usually a combination of the HTTP method + the action defined in the endpoint.
+
 ## API Response Standard
 
 ### Success Response
