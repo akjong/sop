@@ -35,3 +35,7 @@ In general, HTTP endpoints are defined as the following `<namespace>/<version>/<
   "message": "server interal error"
 }
 ```
+
+## Standard
+
+* <https://google.aip.dev/>
